@@ -1,0 +1,9 @@
+E:\TestForApplication\c#\ShapeShifter_Katou\ShapeShifter_Katou\bin\Debug\ShapeShifter_Katou.exe.config
+E:\TestForApplication\c#\ShapeShifter_Katou\ShapeShifter_Katou\obj\Debug\ShapeShifter_Katou.csprojResolveAssemblyReference.cache
+E:\TestForApplication\c#\ShapeShifter_Katou\ShapeShifter_Katou\obj\Debug\ShapeShifter_Katou.Form1.resources
+E:\TestForApplication\c#\ShapeShifter_Katou\ShapeShifter_Katou\obj\Debug\ShapeShifter_Katou.Properties.Resources.resources
+E:\TestForApplication\c#\ShapeShifter_Katou\ShapeShifter_Katou\obj\Debug\ShapeShifter_Katou.csproj.GenerateResource.Cache
+E:\TestForApplication\c#\ShapeShifter_Katou\ShapeShifter_Katou\bin\Debug\ShapeShifter_Katou.exe
+E:\TestForApplication\c#\ShapeShifter_Katou\ShapeShifter_Katou\bin\Debug\ShapeShifter_Katou.pdb
+E:\TestForApplication\c#\ShapeShifter_Katou\ShapeShifter_Katou\obj\Debug\ShapeShifter_Katou.exe
+E:\TestForApplication\c#\ShapeShifter_Katou\ShapeShifter_Katou\obj\Debug\ShapeShifter_Katou.pdb
